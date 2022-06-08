@@ -1,0 +1,15 @@
+C:\Users\djord\OneDrive\Documents\Asp projects\AspBlogProject\AspBlog.Application\bin\Debug\net5.0\AspBlog.Application.deps.json
+C:\Users\djord\OneDrive\Documents\Asp projects\AspBlogProject\AspBlog.Application\bin\Debug\net5.0\AspBlog.Application.dll
+C:\Users\djord\OneDrive\Documents\Asp projects\AspBlogProject\AspBlog.Application\bin\Debug\net5.0\ref\AspBlog.Application.dll
+C:\Users\djord\OneDrive\Documents\Asp projects\AspBlogProject\AspBlog.Application\bin\Debug\net5.0\AspBlog.Application.pdb
+C:\Users\djord\OneDrive\Documents\Asp projects\AspBlogProject\AspBlog.Application\bin\Debug\net5.0\AspBlog.Domain.dll
+C:\Users\djord\OneDrive\Documents\Asp projects\AspBlogProject\AspBlog.Application\bin\Debug\net5.0\AspBlog.Domain.pdb
+C:\Users\djord\OneDrive\Documents\Asp projects\AspBlogProject\AspBlog.Application\obj\Debug\net5.0\AspBlog.Application.csproj.AssemblyReference.cache
+C:\Users\djord\OneDrive\Documents\Asp projects\AspBlogProject\AspBlog.Application\obj\Debug\net5.0\AspBlog.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\djord\OneDrive\Documents\Asp projects\AspBlogProject\AspBlog.Application\obj\Debug\net5.0\AspBlog.Application.AssemblyInfoInputs.cache
+C:\Users\djord\OneDrive\Documents\Asp projects\AspBlogProject\AspBlog.Application\obj\Debug\net5.0\AspBlog.Application.AssemblyInfo.cs
+C:\Users\djord\OneDrive\Documents\Asp projects\AspBlogProject\AspBlog.Application\obj\Debug\net5.0\AspBlog.Application.csproj.CoreCompileInputs.cache
+C:\Users\djord\OneDrive\Documents\Asp projects\AspBlogProject\AspBlog.Application\obj\Debug\net5.0\AspBlog.Application.csproj.CopyComplete
+C:\Users\djord\OneDrive\Documents\Asp projects\AspBlogProject\AspBlog.Application\obj\Debug\net5.0\AspBlog.Application.dll
+C:\Users\djord\OneDrive\Documents\Asp projects\AspBlogProject\AspBlog.Application\obj\Debug\net5.0\ref\AspBlog.Application.dll
+C:\Users\djord\OneDrive\Documents\Asp projects\AspBlogProject\AspBlog.Application\obj\Debug\net5.0\AspBlog.Application.pdb
